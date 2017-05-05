@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demo
+Implementation-Version: 0.1
+Built-By: mauro
+Implementation-Vendor-Id: br.com.base
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/demo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
