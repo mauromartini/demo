@@ -5,7 +5,7 @@ import java.util.List;
 public class AjaxResponseBody {
 
     String msg;
-    List<User> result;
+  List<Customer> result;
 
     public String getMsg() {
         return msg;
@@ -15,11 +15,11 @@ public class AjaxResponseBody {
         this.msg = msg;
     }
 
-    public List<User> getResult() {
+  public List<Customer> getResult() {
         return result;
     }
 
-    public void setResult(List<User> result) {
+  public void setResult(List<Customer> result) {
         this.result = result;
     }
 
